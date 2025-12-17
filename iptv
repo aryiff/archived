@@ -285,7 +285,9 @@ Sony Yay Tamil,https://3065.koyeb.app/smt.php?id=sonyyaytam_raj
 Starmaa HD,https://3065.koyeb.app/smt.php?id=starmaa_raj
 Starmaa Movies HD,https://3065.koyeb.app/smt.php?id=starmaamovies_raj
 Bollyone,https://3065.koyeb.app/smt.php?id=Bollyone
-Vijay Super,https://3065.koyeb.app/smt.php?id=vijaysuper_raj
+
+#EXTINF:-1 group-title="Woi",Vijay Super
+https://3065.koyeb.app/smt.php?id=vijaysuper_raj
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
