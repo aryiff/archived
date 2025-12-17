@@ -283,8 +283,13 @@ Starplus HD,https://3065.koyeb.app/smt.php?id=Starplushd
 Picture HD,https://3065.koyeb.app/smt.php?id=Npicture
 Sony Yay Tamil,https://3065.koyeb.app/smt.php?id=sonyyaytam_raj
 Starmaa HD,https://3065.koyeb.app/smt.php?id=starmaa_raj
-Starmaa Movies HD,https://3065.koyeb.app/smt.php?id=starmaamovies_raj
-Bollyone,https://3065.koyeb.app/smt.php?id=Bollyone
+
+#EXTINF:-1 group-title="Woi",Starmaa Movies HD
+https://3065.koyeb.app/smt.php?id=starmaamovies_raj
+
+
+#EXTINF:-1 group-title="Woi",Bollyone
+https://3065.koyeb.app/smt.php?id=Bollyone
 
 #EXTINF:-1 group-title="Woi",Vijay Super
 https://3065.koyeb.app/smt.php?id=vijaysuper_raj
